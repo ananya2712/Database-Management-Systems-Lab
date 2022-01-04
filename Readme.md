@@ -8,4 +8,4 @@ A repository containing assignments completed as a part of Database Management S
 6. Week6 : Aggregation Functions in SQL
 7. Week7 : Relational/Set Operations in SQL
 8. Week8 : Joins and Sub-Queries in SQL
-9. Week9-10 : Triggers and Basic Funcational Programming in SQL
+9. Week9-10 : Triggers and Basic Functional Programming in SQL
